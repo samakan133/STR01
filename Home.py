@@ -16,7 +16,7 @@ with col2:
     st.image('./pic/ทานตะวัน.jpg')
 
 html_1 = """
-<div style="background-color:#FFA31E;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:white">
+<div style="background-color:#FFA31E;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>สถิติข้อมูลดอกไม้</h5></center>
 </div>
 """
